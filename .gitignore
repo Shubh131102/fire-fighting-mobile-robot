@@ -1,0 +1,8 @@
+*.hex
+*.elf
+__pycache__/
+*.py[cod]
+.venv/
+.env
+cad/
+media/*.mp4
