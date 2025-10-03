@@ -1,8 +1,20 @@
+# Arduino build
 *.hex
 *.elf
+
+# ROS2/colcon (if used later)
+build/
+install/
+log/
+
+# Python
 __pycache__/
 *.py[cod]
 .venv/
 .env
+
+# Misc
+.DS_Store
+Thumbs.db
 cad/
 media/*.mp4
